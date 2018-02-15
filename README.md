@@ -13,8 +13,7 @@ Web Application Development
 (To declare, issue, modify, and display variables utilizing the getElementById() method to reference elements on a page by its id value.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+( https://jazzyf17.github.io/lesson4_javascript1/ )
 
 ### Lessons Learned in the Assignment:
 1. (The getElementById() method is a document object method that allows us to reference elements by a specified ID.)
